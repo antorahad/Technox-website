@@ -1,0 +1,98 @@
+@media (max-width:991px) {
+    /* Navbar css */
+    .header-scrolled {
+        height: auto;
+    }
+
+    .header_wrapper .navbar{
+        background-color: #DDDDDD;
+    }
+
+    .header_wrapper .navbar-nav {
+        text-align: center;
+        padding-bottom: 15px;
+    }
+
+    .header_wrapper .nav-item .nav-link{
+        margin-top: 15px;
+    }
+
+    /*Banner css*/
+    .banner_wrapper .banner-title{
+        font-size: 30px;
+    }
+
+    .banner_wrapper .banner-pera{
+        font-size: 14px;
+    }
+
+    /*About css*/
+    .about_wrapper img{
+        width: auto;
+        height: auto;
+    }
+
+    /*Package css*/
+    .packages_wrapper .card{
+        width: 13rem;
+        height: 650px;
+    }
+
+    .packages_wrapper .pack-title{
+        font-size: 23px;
+    }
+
+    .packages_wrapper .pack-price{
+        font-size: 15px;
+    }
+
+    .packages_wrapper .features{
+        font-size: 12px;
+    }
+
+    /*Blog css*/
+    .blog_wrapper .card{
+        width: auto;
+    }
+
+    /*Contact css*/
+    .contact_wrapper img{
+        width: auto;
+        height: auto;
+    }
+}
+
+@media (max-width:767px){
+    /*Banner css*/
+    .banner_wrapper .subtitle{
+        text-align: center;
+    }
+
+    .banner_wrapper .banner-title{
+        font-size: 25px;
+        text-align: center;
+    }
+
+    .banner_wrapper .banner-pera{
+        font-size: 15px;
+        text-align: justify;
+    }
+
+    /*Package css*/
+    .packages_wrapper .card{
+        width: auto;
+        height: auto;
+    }
+
+    .packages_wrapper .pack-title{
+        font-size: 30px;
+    }
+
+    .packages_wrapper .pack-price{
+        font-size: 20px;
+    }
+
+    .packages_wrapper .features{
+        font-size: 13px;
+    }
+}

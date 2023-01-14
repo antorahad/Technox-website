@@ -1,0 +1,93 @@
+WANT TO START A NEW BUSINESS?
+
+THEN TECHNOX IS HERE FOR YOU
+
+In the modern era, we all want to do business on our own, but do you know what the key to a successful business is? More than hard work and perseverance are required for business success. You require an appealing website where you can
+
+can present your company to people all over the world via the internet, in conjunction with Digital Marketing, Domain Hosting, and mobile friendly application.
+
+
+About TechNox
+Essentially, TechNox is a company that will provide you with Web development, App development, Domain & hosting, Digital Marketing, and a variety of other services.
+We began our journey in 2015 and have already established ourselves very successfully. As a result, Tecnox is now a trusted friend to many organizations.
+We have worked for well-known companies such as - company name, company name , company name. 
+We treat our clients with the utmost professionalism. Prioritizing their feedback allows us to ensure that the website we build is exactly what they want, 
+which is how we earn your trust.
+
+We'll tell you why you should pick us:
+
+
+
+
+Testimonial 
+
+If you want to expand your business, TechNox is the complete solution.
+
+TechNox is the complete package for growing your business.
+
+TechNox will be your best friend if you want to promote your business.
+
+
+
+
+footer_wrapper .social-icon li {
+    margin: 6px;
+}
+
+.footer_wrapper .social-icon a {
+    width: 35px;
+    height: 35px;
+    line-height: 30px;
+    font-size: 16px;
+    display: inline-block;
+    border: 2px solid #0081c9;
+    color: #0081c9;
+    text-align: center;
+    border-radius: 100%;
+    -webkit-transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
+    transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
+}
+
+.footer_wrapper .social-icon a:hover {
+    background-color: #0081C9;
+    border-color: #0081C9;
+    color: #fff;
+    transform: translateY(-3px);
+}
+
+.footer_wrapper .copyright-text p {
+    color: #000;
+    font-size: 11px;
+    line-height: 20px;
+}
+
+.footer_wrapper .copyright-text a {
+    color: #0081C9;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ <P><i class="bi bi-check2-circle"></i> Dynamic Website (Home + 2 page)</P>
+                                        <p><i class="bi bi-check2-circle"></i> Any kind of graphical content</p>
+                                        <P><i class="bi bi-check2-circle"></i> Theme customization (WordPress)</P>
+                                        <P><i class="bi bi-check2-circle"></i> Provie domain & 5gb web hosting</P>
+                                        <p><i class="bi bi-check2-circle"></i> Promoting business (Facebook, Twitter)</p>
